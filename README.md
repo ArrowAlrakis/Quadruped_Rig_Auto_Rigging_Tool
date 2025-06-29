@@ -1,4 +1,5 @@
 # Quadruped_Rig_Auto_Rigging_Tool
+[Final Rig Preview](.preview.png)
 Python Auto Rig Tool for Quadruped Creatures
 Created by Arrow Lyu. Designed originally for Rimerock, my original dragon character.
 
