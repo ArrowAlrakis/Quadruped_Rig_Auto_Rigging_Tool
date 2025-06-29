@@ -19,7 +19,7 @@ Scripted 100% in Python (Maya commands and pymel)
 Works in Maya (tested in versions 2019–2025)
 
 # Demo
-▶ Quadruped_AutoRig_demo_v01
+▶ Watch the full auto-rig demo: [Watch on Vimeo](https://vimeo.com/1097236151/43abb215fc)
 
 (Note: Some helper modules used in the script are private, learned from my professor, Dennis Turner, and not shared publicly due to the instructor's request. However, core functionality and design are fully visible in the demo.)
 
@@ -38,3 +38,7 @@ External dependencies (e.g., helper modules from Dennis Turner) are not required
 
 # About the Author
 This tool was developed by Arrow Lyu, a game art designer with experience in rigging and scripting, aiming to bridge art and technical workflows. It reflects an interest in character TD work and tech art pipelines for games and animation.
+
+# Contact / Portfolio
+Email: jcrane@gmail.com
+GitHub: [[Arrow's profile]](https://github.com/ArrowAlrakis)
