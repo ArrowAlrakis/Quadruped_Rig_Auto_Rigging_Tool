@@ -4,7 +4,7 @@ Created by Arrow Lyu. Designed originally for Rimerock, my original dragon chara
 
 # Main Script
 
-📄 [Quadruped_AutoRig_Python_Tool.py](./script/Quadruped_AutoRig_Python_Tool.py) – The main script that builds the auto rig. You can run this directly in Maya's script editor.
+📄 [Quadruped_AutoRig_Python_Tool.py](./Quadruped_AutoRig_Python_Tool.py) – The main script that builds the auto rig. You can run this directly in Maya's script editor.
 
 
 # Overview
