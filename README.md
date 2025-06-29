@@ -15,13 +15,19 @@ It generates a clean joint structure, controllers, and constraints — making it
 
 
 # Key Features
-Auto joint generation (spine, legs, neck, tail)
-Custom joint count per region (adjustable in code)
-Special support for: Fins, Spikes, Whiskers, Crests
-Proxy-based rig logic
-Skin weight transfer from proxy to final mesh
-Scripted 100% in Python (Maya commands and pymel)
-Works in Maya (tested in versions 2019–2025)
+Auto joint generation (spine, legs, neck, tail).
+
+Custom joint count per region (adjustable in code).
+
+Special support for: Fins, Spikes, Whiskers, Crests.
+
+Proxy-based rig logic.
+
+Skin weight transfer from proxy to final mesh.
+
+Scripted 100% in Python (Maya commands and pymel).
+
+Works in Maya (tested in versions 2019–2025).
 
 # Demo
 ▶ Watch the full auto-rig demo: [Watch on Vimeo](https://vimeo.com/1097236151/43abb215fc)
