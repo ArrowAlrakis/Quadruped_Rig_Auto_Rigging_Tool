@@ -2,6 +2,11 @@
 Python Auto Rig Tool for Quadruped Creatures
 Created by Arrow Lyu. Designed originally for Rimerock, my original dragon character.
 
+# Main Script
+
+📄 [Quadruped_AutoRig_Python_Tool.py](./script/Quadruped_AutoRig_Python_Tool.py) – The main script that builds the auto rig. You can run this directly in Maya's script editor.
+
+
 # Overview
 This is a Python-based Auto Rigging Tool built for quadruped creatures in Autodesk Maya.
 Originally developed to rig a fantasy dragon (with fins, crests, whiskers, and tail spikes), the script supports both standard and custom anatomical features.
